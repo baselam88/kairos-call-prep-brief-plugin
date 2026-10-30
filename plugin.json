@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Assembles a 2-minute pre-call brief on a prospect from public sources only.",
+  "keywords": [
+    "brief",
+    "call",
+    "kairos",
+    "prep",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-call-prep-brief",
+  "repository": "https://github.com/baselam88/kairos-call-prep-brief-plugin",
+  "version": "0.1.0"
+}
